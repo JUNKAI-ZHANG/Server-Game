@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GateServer.dir/GateMain.cpp.o CMakeFiles/GateServer.dir/Recv.cpp.o CMakeFiles/GateServer.dir/Tool/FunctionUtil.cpp.o CMakeFiles/GateServer.dir/Tool/RingBuffers.cpp.o CMakeFiles/GateServer.dir/Protobuf/MessageProto.pb.cc.o -o GateServer  -lprotobuf -lpthread 

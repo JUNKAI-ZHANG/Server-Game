@@ -1,0 +1,3 @@
+/home/ops/CodeHome/Server/DbServer/src/CMakeFiles/DbServer.dir
+/home/ops/CodeHome/Server/DbServer/src/CMakeFiles/edit_cache.dir
+/home/ops/CodeHome/Server/DbServer/src/CMakeFiles/rebuild_cache.dir

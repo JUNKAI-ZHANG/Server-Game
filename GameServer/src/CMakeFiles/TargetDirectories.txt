@@ -1,0 +1,3 @@
+/home/ops/CodeHome/Server/GateServer/src/CMakeFiles/GateServer.dir
+/home/ops/CodeHome/Server/GateServer/src/CMakeFiles/edit_cache.dir
+/home/ops/CodeHome/Server/GateServer/src/CMakeFiles/rebuild_cache.dir
